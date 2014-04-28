@@ -1,0 +1,18 @@
+{
+  "name": "Carbon",
+  "version": "0.0.0",
+  "description": "Creating prototypal inheritance, enterprise style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "oop",
+    "class",
+    "abstract",
+    "interface",
+    "trait"
+  ],
+  "author": "Christopher Turner <turner296@gmail.com>",
+  "license": "MIT"
+}
