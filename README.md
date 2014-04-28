@@ -1,4 +1,4 @@
-node-Carbon
+node-carbon
 ===========
 
 Creating prototypal inheritance, enterprise style.
